@@ -1,0 +1,10 @@
+.titulo{
+    background-image: url(fptp.jpg);
+   
+}
+ .grupo{
+    display: flex;
+    justify-content: center;
+    font-family: fantasy;
+ }
+
